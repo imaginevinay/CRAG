@@ -25,9 +25,8 @@ The workflow uses a state-based graph architecture built with LangGraph, enablin
 - **LangChain** - LLM orchestration and document processing
 - **LangGraph** - Agentic graph-based workflows
 - **ChromaDB** - Vector database for document storage and retrieval
-- **Ollama** - Local embeddings model (qwen2:1.5b)
+- **Ollama** - Local embeddings model (qwen2:1.5b) + Chat + function/tool calling
 - **Tavily** - Web search integration
-- **Google GenAI** - LLM backend
 - **Python 3.11+** - Runtime
 
 ## Getting Started
